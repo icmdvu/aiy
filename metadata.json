@@ -1,0 +1,7 @@
+{
+  "name": "Special Message for You",
+  "description": "A responsive, cute, and heartfelt interactive message website featuring a memory game and romantic animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
